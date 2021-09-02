@@ -1,2 +1,2 @@
-# my_cv_page
+# Curriculum Vitae
 Pooya Shirazi Curriculum Vitae (CV) Page.
